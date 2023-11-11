@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, my name is David Varley, and I am currently studying Computer Science (Major) & Business (Minor) in Trinity College Dublin👋
+
+- 🌱 I’m currently learning Algorithms & Data Structures
+- My projects include, but are not limited to:
+  
+-   a full-stack bus timetable app
+-   a free-roam 3D player game (modelled after Minecraft),
+-   controlling a SoC with ARM Assembly Language
+  
+- 👯 I’m looking to collaborate on sensor web technologies, (3D) game development, full-stack development and/or (ARM) assembly language programming
 
 <!--
 **bobAnthonyVarley/bobAnthonyVarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
