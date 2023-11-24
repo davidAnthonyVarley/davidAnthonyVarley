@@ -7,7 +7,11 @@
 -   a free-roam 3D player game (modelled after Minecraft),
 -   controlling a SoC with ARM Assembly Language
   
-- 👯 I’m looking to collaborate on sensor web technologies, (3D) game development, full-stack development and/or (ARM) assembly language programming
+ I’m looking to collaborate on sensor web technologies, (3D) game development, full-stack development and/or (ARM) assembly language programming
+
+ Specifically, I want to one day build a 3D game in ARM Assembly Language
+
+ #My next project is building a calculator
 
 <!--
 **bobAnthonyVarley/bobAnthonyVarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
