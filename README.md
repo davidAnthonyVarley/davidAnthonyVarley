@@ -1,8 +1,9 @@
-### Hi there, my name is David Varley, and I am currently studying Computer Science (Major) & Business (Minor) in Trinity College Dublin👋. My next project will be to build a physical calculator
-
+### Hi there, my name is David Varley, and I am currently studying Computer Science (Major) & Business (Minor) in Trinity College Dublin👋
 - 🌱 I’m currently learning Algorithms & Data Structures
 - My projects include, but are not limited to:
-  
+
+-   Integrating GPT 4.0 into a client's website to analyse a patient's (WHO-standardised formatted) Labratory Results 
+-   
 -   a full-stack bus timetable app
 -   a free-roam 3D player game (modelled after Minecraft),
 -   controlling a SoC with ARM Assembly Language
