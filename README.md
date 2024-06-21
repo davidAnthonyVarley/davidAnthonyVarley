@@ -1,4 +1,4 @@
-### Hi there, my name is David Varley, and I am currently studying Computer Science (Major) & Business (Minor) in Trinity College Dublin👋
+### Hi there, my name is David Varley, and I am an aspiring system architect studying Computer Science (Major) & Business (Minor) in Trinity College Dublin👋
   My projects include:
 
 -   Integrating GPT 4.0 into a client's website to analyse a patient's (WHO-standardised formatted) Labratory Results
